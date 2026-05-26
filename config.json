@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchsrocess",
+        "uuid": 8251950,
+        "checksum": "27l3pa"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
